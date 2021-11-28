@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>
+		Himalaya Trekking Check List
+	</title>
+</head>
+
+<body style="background-color:rgba(67, 156, 179, 0.719);">
+	<h1>Himalaya Trekking</h1>
+
+	<nav class="navbar background">
+		<ul class="nav-list">
+			<div class="Mountain Trek">
+				<img src="Himalaya.jpg">
+			</div>
+			<h2>Checklist for Trekking</h2>
+			<li><a href="https://www.trekkit.in/footwear/trekking-hiking-boots">Shoes</a></li>
+			<li><a href="http://walktohimalayas.com/services/trekking/">Travels</a></li>
+			<li><a href="https://www.alpineascents.com/blog/medications-prescriptions-for-mountain-climbing/#:~:text=Ibuprofen%3A%20NSAIDs%20%28non-steroidal%20anti-inflammatory%20drugs%29%20have%20an%20amazing,Ibuprofen%2C%20you%20bring%20a%20large%20supply%20of%20it.">Medicines</a></li>
+		</ul>
+
+	</nav>
+
+	<section class="firstsection">
+		<div class="box-main">
+			<div class="firstHalf">
+				<h1 class="text-big" id="shoes">
+					Trekking Shoes
+				</h1>
+				
+				<p class="text-small">
+					<br>Your choice of trekking boots will depend on 4 criteria: the terrain on which they will be used,the duration of the outing, the weather forecast and the support.<br>
+
+					<br>TYPE OF TREK<br>
+					<ul>
+						<li>Easy Treks  - For shorter duration treks when you’re walking on vehicle-going roads, your shoe will require built-in cushioning, a crosscontact sole with good grip and traction incase of wet hard ground, 
+							ankle support and a soft sole to ease the motion of the foot, ideal for easy treks</li><br>
+						<li>Expedition Treks  - Expeditions require boots with highly durable materials and assemblies. Preferably a Vibram sole for better grip and traction on hard and wet ground, a rigid sole to favour foothold in 
+							rugged areas and for cushioning, go for a EVA midsole with lower density pad under the heel</li>
+					  </ul>
+				</p>
+
+
+			</div>
+		</div>
+	</section>
+
+	<section class="secondsection">
+		<div class="box-main">
+			<div class="secondHalf">
+				<h1 class="text-big" id="program">
+					Travels
+				</h1>
+				<p class="text-small">
+					Trekking in India is one of the famous adventure sports awaiting the trekking enthusiast in India. 
+					One who is fascinated by the unexplored. The mountain ranges of India offer breathtaking, enthralling 
+					trekking routes. In the vast amphitheater of the Indian Himalayas and Karakorams, there are limitless 
+					possibilities for trekking tours, mountaineering, skiing, and river rafting tours. Within this alluring 
+					arena, the Garhwal and Kumaon regions, occupy the central place, with special points of interest for the 
+					trekker… In India, Trekking enthusiast can also explore the rugged beauty of the lofty mountains romancing 
+					the shimmering waterfalls cascading down in glee, like a merry village belle. Experience the thrill of sheer 
+					adventure by our trekking tours in India amidst the world’s most beautiful places.
+				</p>
+
+
+			</div>
+		</div>
+	</section>
+
+	<section class="section">
+		<div class="paras">
+			<h1 class="sectionTag text-big">Medicines</h1>
+
+			<p class="sectionSubTag text-small">
+				Last but not the least, you must carry medicines and basic medical kit with creams for burns, 
+                bruises, antiseptic lotions, bandages, bandaids, etc.. You never know when small medical first-aid 
+                kits may help you or a fellow hiker or trekker with minors health issues including burns, cuts or bruises.
+			</p>
+
+
+		</div>
+
+	<footer class="background">
+		<p class="text-footer">
+			HAVE A SAFE TREK
+		</p>
+
+
+	</footer>
+</body>
+
+</html>
+
+
